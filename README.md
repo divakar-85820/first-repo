@@ -1,4 +1,4 @@
 # first-repo
 <br>
 my first repository
-author - Divakar 
+author - Divakar (CSE)
